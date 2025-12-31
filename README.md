@@ -34,8 +34,7 @@ Ayrıca, kullanıcıların modeli etkileşimli şekilde test edebilmesi için
   https://www.kaggle.com/datasets/alessiocorrado99/animals10
 
 > ⚠️ Veri seti GitHub reposuna dahil edilmemiştir.
-> Kullanıcılar veri setini ilgili kaynaktan indirerek
-> proje dizinine yerleştirmelidir.
+
 
 ---
 
